@@ -1,2 +1,4 @@
 Here are some notes
+Added to notes
+More remote changes
 Local change
